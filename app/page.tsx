@@ -8,7 +8,7 @@ const Home: React.FC = () => {
     <div>
       <Navbar />
       <h1>Welcome to My Portfolio</h1>
-      <p>Hello! I'm [Your Name], a budding developer learning Next.js.</p>
+      <p>Hello! I&apos;m Robert, a budding developer learning Next.js.</p>
     </div>
   )
 }
